@@ -52,4 +52,20 @@ Como nosotros solo creamos un disco lo instalaremos en ese.</cite>
 
 ![Instalación](img_Geexbox/img08.jpg)
 
-# <b>Paso 9 - Reinicio</b>
+<cite style="display:block; text-align: justify">Nos saldra un aviso de que la instalación finalizo correctamente, le daremos OK</cite>
+
+![Instalación](img_Geexbox/img09.jpg)
+
+# <b>Reinicio</b>
+
+<cite style="display:block; text-align: justify">Reiniciaremos nuestra maquina.
+
+Le damos en Reboot</cite>
+
+![Reinicio](img_Geexbox/img10.jpg)
+
+# <b>Geexbox</b>
+
+<cite style="display:block; text-align: justify">Una vez terminada la instalacion nos aparecera la pantalla de inicio de Geexbox.</cite>
+
+![Geexbox](img_Geexbox/img11.jpg)
