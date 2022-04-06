@@ -11,7 +11,7 @@
 
 [01]:https://github.com/JuanC717
 
-[11]:https://github.com/Paula717/Sistema-Operativo-Ubuntu/tree/main/1-VirtualBox
+[11]:https://github.com/Paula717/Servidor_Geexbox/tree/main/1-Creacion%20de%20MV
 
-[21]:https://github.com/Paula717/Sistema-Operativo-Ubuntu/tree/main/2-Creacion%20de%20MV
+[21]:https://github.com/Paula717/Servidor_Geexbox/tree/main/2-Geexbox%203.1
 
